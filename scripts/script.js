@@ -8,7 +8,7 @@ end.addEventListener('mouseover', winGame);
 function startGame() {
     gameStarted = true;
     start.style.background='green';
-    gameStarted=true;
+    
 }
 function loseGame() {
     //console.log('lost the game')
